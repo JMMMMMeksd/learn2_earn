@@ -1,4 +1,4 @@
-﻿accelerate==1.12.0
+accelerate==1.12.0
 aiohappyeyeballs==2.6.1
 aiohttp==3.11.18
 aiohttp-retry==2.9.1
@@ -98,10 +98,8 @@ pydantic_core==2.33.2
 Pygments==2.19.2
 PyJWT==2.10.1
 PyMySQL==1.1.0
-pyngrok==7.2.3
 pyparsing==3.2.3
 PyPDF2==3.0.1
-pypiwin32==223
 pyspellchecker==0.8.3
 pytest==8.3.5
 pytest-mock==3.14.0
@@ -110,7 +108,6 @@ python-docx==1.1.0
 python-dotenv==1.1.1
 pyttsx3==2.90
 pytz==2023.3
-pywin32==311
 PyYAML==6.0.2
 qrcode==8.1
 realtime==1.0.6
