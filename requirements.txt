@@ -14,3 +14,11 @@ gunicorn==21.2.0
 supabase
 requests
 python-dateutil
+nltk
+spacy
+textblob
+langdetect
+language_tool_python
+PyPDF2
+python-docx
+numpy
